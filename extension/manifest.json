@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Markdown-to-html \u2014 Compile Markdown text into semantic, sty",
-  "version": "1.0.0",
-  "description": "Compile Markdown text into semantic, styled HTML snippets offline.",
+  "name": "Markdown to HTML",
+  "version": "1.1.0",
+  "description": "Convert a practical Markdown subset to sanitized HTML without executing embedded markup.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
@@ -11,6 +11,6 @@
   "permissions": [],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Markdown-to-html"
+    "default_title": "Markdown to HTML"
   }
 }
